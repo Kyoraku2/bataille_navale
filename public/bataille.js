@@ -1,7 +1,3 @@
-/**
- *  Corrigé du TP4. Bataille navale
- */
-
 document.addEventListener("DOMContentLoaded", function() {
 
     
